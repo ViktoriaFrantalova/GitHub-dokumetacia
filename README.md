@@ -1,0 +1,2 @@
+# GitHub-dokumetacia
+test
