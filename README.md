@@ -1,6 +1,5 @@
 # GitHub-dokumetacia
 
-
 1. `git status`  - dáva informáciu, kde sa nachádzam vrámci stromu historie, dáva informáciu o aktualnom stave vyklonovaného repozitára.<br>
 Môj bash
 ```
@@ -112,7 +111,7 @@ gitstp="git stash pop"
 
 
 
-
+****
 ```
 gitm="git merge"
 ```
